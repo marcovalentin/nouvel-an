@@ -1,0 +1,17 @@
+.full-background {
+    background: url(../assets/christmas.jpg);
+    height: 100vh;
+    background-position: center center;
+    background-size: cover;
+}
+
+div.card {
+    border: 4px solid $secondary;
+
+    img.avatar {
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
+        border: 5px solid $success;
+    }
+}
