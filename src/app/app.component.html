@@ -4,7 +4,7 @@
       <img class="card-img-top mx-auto avatar" style="width: 200px; height: 200px;" [src]="currentPlayer?.assignedPlayer?.img" *ngIf="end===false && currentPlayer?.assignedPlayer">
       <div class="card-body text-primary">
         <div *ngIf="end===false && start===false">
-          <h3>Bienvenue sur le noël de la Team appétit</h3>
+          <h3>Bienvenue sur le tirage au sort du nouvel an !!</h3>
           <button class="btn btn-success" (click)="beginDurty()">Commencer a jouer</button>
         </div>
 
@@ -27,7 +27,7 @@
         </div>
 
         <div *ngIf="end===true">
-          <h3>Merci à tous on se retrouve samedi pour les cadeaux. Joyeux noël à tous</h3>
+          <h3>Merci à tous on se retrouve le 31 pour offrir les cadeaux !!</h3>
         </div>
       </div>
     </div>
