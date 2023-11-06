@@ -1,7 +1,9 @@
-import { PlayersService } from './players.service';
+//import { PlayersService } from './players.service';
 import { Player } from './models/player';
 import { Component, OnDestroy } from '@angular/core';
 import { Subscription } from 'rxjs';
+//import { PlayersLocalService } from './playerslocal.service';
+import { PlayersService } from './players.service';
 
 @Component({
   selector: 'app-root',
@@ -53,6 +55,10 @@ export class AppComponent implements OnDestroy {
     this.currentPlayer.assignedPlayer.isAssigned = true;
 
     this.playersService.setPlayers(this.players);
+  }
+
+  resetTirage() {
+    this.playersService.initPlayers();
   }
 
   ngOnDestroy() {

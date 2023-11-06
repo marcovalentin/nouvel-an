@@ -8,6 +8,8 @@ import { PlayersService } from './players.service';
 import { AngularFireDatabaseModule } from '@angular/fire/database';
 import { AngularFireModule } from '@angular/fire';
 
+import { HttpClientModule } from '@angular/common/http';
+
 const config = {
   apiKey: 'AIzaSyCpwjLIhnZ9gTGaSQVUQOJ3JMnWxbHQw4I',
   authDomain: 'cadeaunoel-e140d.firebaseapp.com',
@@ -26,6 +28,7 @@ const config = {
     AngularFireModule.initializeApp(config),
     BrowserModule,
     FormsModule,
+    HttpClientModule,
     AppRoutingModule,
     AngularFireDatabaseModule
   ],

@@ -1,0 +1,124 @@
+{
+  "players": [
+    {
+      "img": "./assets/lea.jpg",
+      "isAssigned": false,
+      "name": "Léa",
+      "speech": "Offre lui un truc à faire avec son amoureux c'est un gros canard cette meuf !"
+    },
+    {
+      "img": "./assets/val.jpg",
+      "isAssigned": false,
+      "name": "Val",
+      "speech": "Va falloir trouver un cadeau plus original qu'un déguisement de poulet !"
+    },
+    {
+      "img": "./assets/paupau.jpg",
+      "isAssigned": false,
+      "name": "Pauline",
+      "speech": "Supporter Romain c'est pas facile tous les jours, elle mérite un beau cadeau !"
+    },
+    {
+      "img": "./assets/bere.jpg",
+      "isAssigned": false,
+      "name": "Bérénice",
+      "speech": "Offre lui des lunettes plus petites que celle ci on voit plus sa tronche"
+    },
+    {
+      "img": "./assets/charlie.jpeg",
+      "isAssigned": false,
+      "name": "Charlie",
+      "speech": "Offre lui pas de drogue, ses yeux sont assez rouges comme ça"
+    },
+    {
+      "img": "./assets/claire.jpg",
+      "isAssigned": false,
+      "name": "Claire",
+      "speech": "Cette photo peut te donner pleins d'idées de cadeaux"
+    },
+    {
+      "img": "./assets/clara.jpg",
+      "isAssigned": false,
+      "name": "Clara",
+      "speech": "Gare à toi si elle aime pas son cadeau, c'est une bagarreuse la petite"
+    },
+    {
+      "img": "./assets/gabrielle.jpeg",
+      "isAssigned": false,
+      "name": "Gabrielle",
+      "speech": "Si t'as pas d'idées offre lui un filet o fish, c'est la seule qui mange ça !"
+    },
+    {
+      "img": "./assets/jean.jpg",
+      "isAssigned": false,
+      "name": "Jean",
+      "speech": "Offre lui pas de ruches, ça fait des dégats !"
+    },
+    {
+      "img": "./assets/lola.jpg",
+      "isAssigned": false,
+      "name": "Lola",
+      "speech": "On veut un cadeau pour Lola et pas pour le bébé, c'est trop facile !"
+    },
+    {
+      "img": "./assets/marine.jpg",
+      "isAssigned": false,
+      "name": "Marine",
+      "speech": "Offre lui pas d'alcool elle en boit assez comme ça !"
+    },
+    {
+      "img": "./assets/marion.jpg",
+      "isAssigned": false,
+      "name": "Marion",
+      "speech": "Offre lui pas un cadeau pour Boueni, je te vois venir !!"
+    },
+    {
+      "img": "./assets/maxime.jpg",
+      "isAssigned": false,
+      "name": "Maxime",
+      "speech": "Offre lui des capotes, un mini Max c'est suffisant !"
+    },
+    {
+      "img": "./assets/romain.jpg",
+      "isAssigned": false,
+      "name": "Romain",
+      "speech": "Offre lui un caleçon, on voit la lune"
+    },
+    {
+      "img": "./assets/romane.jpg",
+      "isAssigned": false,
+      "name": "Romane",
+      "speech": "Une nouvelle couronne pour princesse Roro ?"
+    },
+    {
+      "img": "./assets/constance.jpg",
+      "isAssigned": false,
+      "name": "Constance",
+      "speech": "Offre lui pas des lunettes elle en vend assez toute l'année"
+    },
+    {
+      "img": "./assets/franck.jpg",
+      "isAssigned": false,
+      "name": "Franck",
+      "speech": "Une clé de douze pour le roi de la mécanique, ça fait toujours plaisir !"
+    },
+    {
+      "img": "./assets/leonore.jpg",
+      "isAssigned": false,
+      "name": "Leonore",
+      "speech": "Offre lui du PQ, le rouleau est presque fini"
+    },
+    {
+      "img": "./assets/guigui.jpg",
+      "isAssigned": false,
+      "name": "Guilhem",
+      "speech": "Gare à toi s'il n'aime pas, cet homme est une vraie armoire à glace"
+    },
+    {
+      "img": "./assets/momo.jpg",
+      "isAssigned": false,
+      "name": "Lucas",
+      "speech": "Un micro pour DJ Momo, le meilleur des cadeau !"
+    }
+  ]
+}

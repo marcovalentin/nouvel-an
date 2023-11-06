@@ -1,0 +1,88 @@
+{
+  "players": [
+    {
+      "img": "./assets/lea.jpg",
+      "isAssigned": false,
+      "name": "Léa",
+      "speech": "Offre lui un truc à faire avec son amoureux c'est un gros canard cette meuf !"
+    },
+    {
+      "img": "./assets/val.jpg",
+      "isAssigned": false,
+      "name": "Val",
+      "speech": "Apprends lui à viser les WC, l'appart de Claire s'en souvient encore !"
+    },
+    {
+      "img": "./assets/anais.jpg",
+      "isAssigned": false,
+      "name": "Anaïs",
+      "speech": "Offre lui pas de l'alcool ça fait des dégats comme tu peux le voir !"
+    },
+    {
+      "img": "./assets/bere.jpg",
+      "isAssigned": false,
+      "name": "Bérénice",
+      "speech": "Offre lui des lunettes plus petites que celle ci on voit plus sa tronche"
+    },
+    {
+      "img": "./assets/charlie.jpeg",
+      "isAssigned": false,
+      "name": "Charlie",
+      "speech": "Offre lui pas de drogue, ses yeux sont assez rouges comme ça"
+    },
+    {
+      "img": "./assets/claire.jpg",
+      "isAssigned": false,
+      "name": "Claire",
+      "speech": "Offre lui un rendez-vous chez le dentiste elle à l'air d'aimer !"
+    },
+    {
+      "img": "./assets/clara.jpg",
+      "isAssigned": false,
+      "name": "Clara",
+      "speech": "Gare à toi si elle aime pas son cadeau, c'est une bagarreuse la petite"
+    },
+    {
+      "img": "./assets/gabrielle.jpeg",
+      "isAssigned": false,
+      "name": "Gabrielle",
+      "speech": "Si t'as pas d'idées offre lui un filet o fish, c'est la seule qui mange ça !"
+    },
+    {
+      "img": "./assets/jean.jpeg",
+      "isAssigned": false,
+      "name": "Jean",
+      "speech": "Offre lui pas un cadeau en rapport avec le sport, c'est pas original !"
+    },
+    {
+      "img": "./assets/lola.jpg",
+      "isAssigned": false,
+      "name": "Lola",
+      "speech": "Offre lui une nouvelle veste de chantier, la sienne ressemble à celle d'Henri Chanon !"
+    },
+    {
+      "img": "./assets/marine.jpg",
+      "isAssigned": false,
+      "name": "Marine",
+      "speech": "Offre lui pas d'alcool elle en bois assez comme ça !"
+    },
+    {
+      "img": "./assets/marion.jpg",
+      "isAssigned": false,
+      "name": "Marion",
+      "speech": "Offre lui pas un cadeau pour Boueni, je te vois venir !!"
+    },
+    {
+      "img": "./assets/maxime.jpeg",
+      "isAssigned": false,
+      "name": "Maxime",
+      "speech": "Offre lui un marteau piqueur il adore ça !!"
+    },
+    {
+      "img": "./assets/romain.jpeg",
+      "isAssigned": false,
+      "name": "Romain",
+      "speech": "Offre lui un rendez-vous chez le barbier, c'est pas très beau là"
+    }
+  ]
+}

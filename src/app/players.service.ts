@@ -5,6 +5,8 @@ import { Subject } from 'rxjs';
 import { AngularFireDatabase } from '@angular/fire/database';
 import { DataSnapshot } from '@angular/fire/database/interfaces';
 
+import * as playersData from '../assets/data/nouvel-an-data-2024.json';
+
 @Injectable({
   providedIn: 'root'
 })
@@ -37,5 +39,11 @@ export class PlayersService {
           this.emitPlayers();
         }
       );
+  }
+
+  initPlayers() {
+    this.players = playersData.players ? playersData.players : [];
+    console.log(this.players);
+    this.savePlayers();
   }
 }
