@@ -73,7 +73,7 @@
       "speech": "Offre lui pas un cadeau pour Boueni, je te vois venir !!"
     },
     {
-      "img": "./assets/maxime.jpg",
+      "img": "./assets/maxime.jpeg",
       "isAssigned": false,
       "name": "Maxime",
       "speech": "Offre lui des capotes, un mini Max c'est suffisant !"
@@ -83,12 +83,6 @@
       "isAssigned": false,
       "name": "Romain",
       "speech": "Offre lui un caleçon, on voit la lune"
-    },
-    {
-      "img": "./assets/romane.jpg",
-      "isAssigned": false,
-      "name": "Romane",
-      "speech": "Une nouvelle couronne pour princesse Roro ?"
     },
     {
       "img": "./assets/constance.jpg",

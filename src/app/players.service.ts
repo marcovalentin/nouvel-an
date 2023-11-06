@@ -43,7 +43,6 @@ export class PlayersService {
 
   initPlayers() {
     this.players = playersData.players ? playersData.players : [];
-    console.log(this.players);
     this.savePlayers();
   }
 }

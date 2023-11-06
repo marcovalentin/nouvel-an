@@ -25,7 +25,6 @@ export class AppComponent implements OnDestroy {
 
     this.playersSubscription = this.playersService.playersSubject.subscribe(
       (players: Player[]) => {
-        console.log(players);
         this.players = players;
         this.survivors = this.players.filter((player) => player.assignedPlayer === undefined);
       }

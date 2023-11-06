@@ -29,6 +29,22 @@
         <div *ngIf="end===true">
           <h3>Merci à tous on se retrouve le 31 pour offrir les cadeaux !!</h3>
         </div>
+        <div hidden>
+          <table >
+            <thead>
+              <tr>
+                <th scope="col">Nom</th>
+                <th scope="col">Offre à</th>     
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let player of players ">
+                <th scope="row">{{ player.name}}</th>
+                <td>{{ player.assignedPlayer?.name}}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
   </div>
